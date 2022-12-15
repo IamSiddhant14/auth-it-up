@@ -1,9 +1,9 @@
-
+import UseStateObject from './components/UseStateObject';
 import './App.css';
 
 function App() {
   return (
-    <h1>Hello from app</h1>
+    <UseStateObject/>
   );
 }
 
